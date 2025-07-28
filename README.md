@@ -108,6 +108,7 @@ MIT License © [Jack3Low](mailto:xapa.pw@gmail.com)
 
 ## 🔗 Links
 
+* [Pypi tree-creator](https://pypi.org/project/tree-creator/1.0.5/)
 * [Source Code](https://github.com/jack-low/tree-creator)
 * [Issue Tracker](https://github.com/jack-low/tree-creator/issues)
 * [Documentation](https://github.com/jack-low/tree-creator#readme)
