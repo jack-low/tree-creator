@@ -350,6 +350,12 @@ Usage:
     python tree_creator.py tree.txt --base-dir ./my_project
     python tree_creator.py tree.txt --dry-run
     echo "dir/\\n└── file.txt" | python tree_creator.py -
+    tree-creator -b ./output-dir - <<EOF
+    myapp/
+    ├── index.html
+    └── static/
+        └── style.css
+    EOF
         '''
     )
     
