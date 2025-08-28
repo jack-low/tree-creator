@@ -109,6 +109,9 @@ mypy tree_creator
 pre-commit install && pre-commit run -a
 ```
 
+- Formatting: Black with line length 88.
+- Linting: Flake8 with `E203,W503` ignored to align with Black.
+
 ## 📜 License
 
 MIT License © [Jack3Low](mailto:xapa.pw@gmail.com)
