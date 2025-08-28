@@ -45,6 +45,7 @@ setup(
             "black>=23.0",
             "flake8>=6.0",
             "mypy>=1.0",
+            "pre-commit>=3.0",
         ],
     },
     entry_points={

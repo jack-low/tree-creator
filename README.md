@@ -106,6 +106,7 @@ pytest
 black .
 flake8 .
 mypy tree_creator
+pre-commit install && pre-commit run -a
 ```
 
 ## 📜 License
