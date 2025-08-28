@@ -1,5 +1,9 @@
 # 📁 Tree Creator
 
+![PyPI](https://img.shields.io/pypi/v/tree-creator)
+![Python Versions](https://img.shields.io/pypi/pyversions/tree-creator)
+![License](https://img.shields.io/pypi/l/tree-creator)
+
 Create directory and file structures from tree-like text representations — just like the output of the `tree` command.
 
 ## ✨ Features
@@ -113,3 +117,4 @@ MIT License © [Jack3Low](mailto:xapa.pw@gmail.com)
 * [Issue Tracker](https://github.com/jack-low/tree-creator/issues)
 * [Documentation](https://github.com/jack-low/tree-creator#readme)
 * [Japanese README](https://github.com/jack-low/tree-creator/blob/main/README.ja.md)
+* [Changelog](./CHANGELOG.md)

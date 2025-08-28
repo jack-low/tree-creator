@@ -1,5 +1,9 @@
 # 📁 Tree Creator（ツリークリエイター）
 
+![PyPI](https://img.shields.io/pypi/v/tree-creator)
+![Python Versions](https://img.shields.io/pypi/pyversions/tree-creator)
+![License](https://img.shields.io/pypi/l/tree-creator)
+
 🌐 言語:  [English version](./README.md) | [日本語はこちら](./README.ja.md)
 
 `tree` コマンドのようなテキスト表現から、ディレクトリやファイルの構造を自動生成するツールです。
@@ -120,3 +124,4 @@ MITライセンス © [Jack3Low](mailto:xapa.pw@gmail.com)
 - [ソースコード](https://github.com/jack-low/tree-creator)
 - [Issue トラッカー](https://github.com/jack-low/tree-creator/issues)
 - [ドキュメント](https://github.com/jack-low/tree-creator#readme)
+ - [変更履歴 (Changelog)](./CHANGELOG.md)
