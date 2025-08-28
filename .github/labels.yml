@@ -1,0 +1,33 @@
+- name: feature
+  color: 1D76DB
+  description: New feature or enhancement
+- name: enhancement
+  color: 1D76DB
+  description: Improvement to existing feature
+- name: bug
+  color: D93F0B
+  description: Bug fix
+- name: fix
+  color: D93F0B
+  description: Bug fix
+- name: docs
+  color: 0E8A16
+  description: Documentation updates
+- name: chore
+  color: C5DEF5
+  description: Maintenance tasks
+- name: ci
+  color: 5319E7
+  description: Continuous Integration related changes
+- name: test
+  color: FBCA04
+  description: Tests and coverage
+- name: major
+  color: 6f42c1
+  description: Major version bump
+- name: minor
+  color: 6f42c1
+  description: Minor version bump
+- name: patch
+  color: 6f42c1
+  description: Patch version bump
