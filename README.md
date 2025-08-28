@@ -3,6 +3,8 @@
 ![PyPI](https://img.shields.io/pypi/v/tree-creator)
 ![Python Versions](https://img.shields.io/pypi/pyversions/tree-creator)
 ![License](https://img.shields.io/pypi/l/tree-creator)
+[![CI](https://github.com/jack-low/tree-creator/actions/workflows/ci.yml/badge.svg)](https://github.com/jack-low/tree-creator/actions/workflows/ci.yml)
+[![Publish](https://github.com/jack-low/tree-creator/actions/workflows/publish.yml/badge.svg)](https://github.com/jack-low/tree-creator/actions/workflows/publish.yml)
 
 Create directory and file structures from tree-like text representations — just like the output of the `tree` command.
 
