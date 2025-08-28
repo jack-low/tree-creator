@@ -33,4 +33,3 @@ jobs:
 
       - name: CLI version
         run: tree-creator -V
-

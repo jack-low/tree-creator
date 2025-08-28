@@ -1,7 +1,7 @@
 [tool.black]
 line-length = 88
 target-version = ["py38", "py310", "py312"]
-extend-exclude = """
+extend-exclude = '''
 (
   /(
       \.git
@@ -13,4 +13,4 @@ extend-exclude = """
     | .*\.egg-info
   )/
 )
-"""
+'''

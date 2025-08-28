@@ -8,8 +8,8 @@ from pathlib import Path
 # Read the English README
 this_directory = Path(__file__).parent
 readme_path = this_directory / "README.md"
-long_description = readme_path.read_text(encoding='utf-8')
-version=__import__("tree_creator._version").__version__
+long_description = readme_path.read_text(encoding="utf-8")
+version = __import__("tree_creator._version").__version__
 
 setup(
     name="tree-creator",

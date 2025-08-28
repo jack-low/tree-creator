@@ -20,4 +20,3 @@ All notable changes to this project are documented in this file.
 
 ### 1.0.0 – 2025-06-15
 - Initial stable release.
-
